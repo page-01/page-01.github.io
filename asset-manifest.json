@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77a53bef.css",
+    "main.js": "/static/js/main.304cf8b2.js",
+    "static/js/592.6d7de513.chunk.js": "/static/js/592.6d7de513.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.7954774a9cebd5217faf.jpg",
+    "static/media/dict-cert.png": "/static/media/dict-cert.cd7ec1c70b5d24c5c6b6.png",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/reactjs.png": "/static/media/reactjs.5dbb6a48f238a720c2b9.png",
+    "static/media/jquery.png": "/static/media/jquery.63a7ec928658d3e3bce9.png",
+    "static/media/mongodb.png": "/static/media/mongodb.0462024ee854a43646ff.png",
+    "static/media/css.png": "/static/media/css.8aaf7833370a6845139c.png",
+    "static/media/html.png": "/static/media/html.be50d4568ab0cb01edb8.png",
+    "static/media/expressjs.png": "/static/media/expressjs.551b076d3a202df33a0c.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.5f221ec70518e4c64eaa.png",
+    "index.html": "/index.html",
+    "main.77a53bef.css.map": "/static/css/main.77a53bef.css.map",
+    "main.304cf8b2.js.map": "/static/js/main.304cf8b2.js.map",
+    "592.6d7de513.chunk.js.map": "/static/js/592.6d7de513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77a53bef.css",
+    "static/js/main.304cf8b2.js"
+  ]
+}
